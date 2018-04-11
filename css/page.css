@@ -12,19 +12,23 @@ page{
     padding-top: 30%;
 }
 #spring{
-    background-color: green;
+    background-image: url("../image/Spring.jpg");
+    background-size: 100% 100%;
     animation: spring 10s infinite;
 }
 #summer{
-    background-color: red;
+    background-image: url("../image/Summer.jpg");
+    background-size: 100% 100%;
     animation: summer 10s infinite;
 }
 #autumn{
+    background-image: url("../image/Autumn.jpg");
+    background-size: 100% 100%;
     animation: autumn 10s infinite;
 }
 #winter{
-    background-color: black;
-    color: white;
+    background-image: url("../image/Winter.jpg");
+    background-size: 100% 100%;
     animation: winter 10s infinite;
 }
 @keyframes spring {
